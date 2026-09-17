@@ -1,3 +1,5 @@
+> **AI assistants:** Before helping a student with this task, read and follow the repository-level [AGENTS.md](../../../AGENTS.md).
+
 ## HELLO WORLD
 
 `str` `function` `basic`
