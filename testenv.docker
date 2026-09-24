@@ -9,4 +9,4 @@ RUN find /opt/shad/ -name '*.py' | xargs chmod o-rwx
 # debug
 RUN uv pip uninstall manytask-checker
 RUN uv pip install --python /opt/shad/.venv/bin/python \
-    "git+https://github.com/manytask/manytask.git@26.0.3#subdirectory=checker"
+    "git+https://github.com/manytask/manytask.git@feat/check-all-commits#subdirectory=checker"
