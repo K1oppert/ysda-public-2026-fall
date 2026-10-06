@@ -21,6 +21,6 @@
 
 ### Замечания
 
-* во всех заданиях данного раздела запрещено использовать циклы (ключевые слова *for* и *while*), [list comprehension](https://habrahabr.ru/post/30232/), [map и т.п.](http://pythonicway.com/python-functinal-programming)
+* во всех заданиях данного раздела запрещено использовать циклы (ключевые слова *for* и *while*), [list comprehension](https://habrahabr.ru/post/30232/), [map и т.п.](https://realpython.com/python-functional-programming/)
 
 * под матрицей в заданиях понимается двумерный [numpy.array](https://numpy.org/doc/stable/reference/generated/numpy.array.html)
