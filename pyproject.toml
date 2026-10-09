@@ -69,7 +69,7 @@ testpaths = [
 ## mypy/pyright configs removed; Pyre is used via pyrefly.toml
 
 [tool.ruff]
-target-version = "py313"
+target-version = "py314"
 
 # Enable the pycodestyle (`E`) and Pyflakes (`F`) rules by default.
 # Unlike Flake8, Ruff doesn't enable pycodestyle warnings (`W`) or
